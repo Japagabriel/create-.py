@@ -43,7 +43,7 @@ def sortRemove(lista_strings):
 
     return mensagem, lista_strings
 
-dadosTemas = ["Amarelo","Boble","Credito","Damas","Estilo"]
+dadosTemas = ["ORÇAMENTO","ASSISTÊNCIA AO ALUNO","INFRAESTRUTURA","PÓS-GRADUAÇÃO","PGD"]
 op = tela()
 while op != "0":
     if op == "1":
